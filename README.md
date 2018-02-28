@@ -1,2 +1,0 @@
-# tariq-Resume
-Resume
